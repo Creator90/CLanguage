@@ -1,6 +1,6 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(){
-	printf("ÄãºÃ\n");
+	printf("ä½ å¥½\n");
 	return 0;
 }
